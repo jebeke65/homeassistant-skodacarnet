@@ -1,0 +1,9 @@
+{
+    "domain": "skodacarnet",
+    "name": "Skoda WeConnect",
+    "documentation": "https://github.com/robinostlund/homeassistant-skodacarnet",
+    "dependencies": [],
+    "render_readme": true,
+    "codeowners": [],
+    "requirements": ["skodacarnet==4.1.24"]
+}
